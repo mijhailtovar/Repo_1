@@ -1,0 +1,3 @@
+[submodule "repo_2"]
+	path = repo_2
+	url = https://github.com/mijhailtovar/repo_2.git
